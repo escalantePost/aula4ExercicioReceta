@@ -1,0 +1,124 @@
+img {
+   top: 25px;
+   left: 22px;
+   width: 883px;
+   height: 374px; 
+   border: 1px solid #707070;
+   opacity: 1; 
+}
+
+h1 {
+    top: 420px;
+    left: 21px;
+    width: 884px;
+    height: 187 px;
+    text-align: left;
+    font: normal normal 900 89px/79px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.h2_autor {
+    top: 617px;
+    left: 21px;
+    width: 884px;
+    height: 28px;
+    text-align: right;
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+}
+
+.h2_escolher {
+    top: 1117px;
+    left: 21px;
+    width: 235px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.ul_escolher {
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000; 
+    opacity: 1;
+}
+
+.h3_plato {
+    top: 1117px;
+    left: 21px;
+    width: 235px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.p_plato {
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+}
+
+.h2_play {
+    text-align: left;
+    font: normal normal 600 25px/30px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+iframe { 
+    border: 5px solid #707070;
+    opacity: 10; 
+}
+
+.h3_ingredientes {
+    text-align: left;
+    font: normal normal 900 25px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.h3_procedimiento {
+    text-align: left;
+    font: normal normal 900 25px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.h3_troppings {
+    text-align: left;
+    font: normal normal 900 25px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1; 
+}
+
+.p_end {
+    text-align: left;
+    font: normal normal 600 18px/25px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+}
+
+button {
+    color: blue;
+    background-color: #FFB300; 
+    border-color: black; 
+    cursor: pointer;
+}
